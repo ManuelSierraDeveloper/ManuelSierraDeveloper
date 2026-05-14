@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Manuel David Sierra Posso</h1>
-  <h3>Analista de Datos Junior | Presidente de Syste+ @ Unimagdalena</h3>
+  <h3>Trainee Analista de Datos Junior | Presidente de Syste+ @ Unimagdalena</h3>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
