@@ -28,6 +28,7 @@
 - **Idioma**: Inglés B2
 
 ### 🔥 Proyectos Destacados
+- **[Análisis-Admitidos-Graduados](https://github.com/ManuelSierraDeveloper/Analisis-Admitidos-Graduados)**: Análisis de datos sobre admitidos y graduados.
 - **[Inteligencia Artificial](https://github.com/ManuelSierraDeveloper/InteligenciaArtificial)**: Algoritmos de optimización (Ant Colony Optimization y Simulated Annealing) aplicados al Problema del Viajero.
 - **[Machine Learning Operations (MLOps)](https://github.com/ManuelSierraDeveloper/MachineLearningOperations)**: Ciclo completo de despliegue de modelos de ML (en curso).
 
